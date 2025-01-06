@@ -37,7 +37,7 @@ The Student Management System (SMS) is a C++ console-based, menu-driven applicat
    
 **Sample Menu**
 
-  <img width="231" alt="github" src="https://github.com/user-attachments/assets/6c9317fd-a74e-4660-9532-9cb7c02609ad" />
+<img width="302" alt="dsa" src="https://github.com/user-attachments/assets/f9931cb6-cf7a-4b53-b311-a425bd703354" />
 
 **Contributing**
 Contributions are welcome! Please fork the repository, create a new branch for your changes, and submit a pull request.
